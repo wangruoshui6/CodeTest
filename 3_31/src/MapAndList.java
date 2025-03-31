@@ -16,6 +16,7 @@ public class MapAndList {
         System.out.println(y);
         System.out.println(z);
         System.out.println(k);
+
     }
     }
 
